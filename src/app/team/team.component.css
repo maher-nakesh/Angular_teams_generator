@@ -1,0 +1,13 @@
+.team-container{
+    margin-bottom: 1rem;
+}
+.team-container ul{
+  border: solid rgba(128, 128, 128, 0.418);
+  margin: 0rem;
+  padding: 00.5rem;
+  }
+  li{
+    list-style: none;
+    font-size: 1.5rem;
+    margin-bottom:  0.5rem;
+  }
